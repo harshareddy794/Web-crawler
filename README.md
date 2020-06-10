@@ -6,9 +6,8 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## Introduction
-Being Cyber geek its always fun to test web applications. Which information gathering is one of the biggest part of the testing.
-Some times it is very important to know all links in a website, which will be very useful in testing any web application.
-So the only way to retrive all links in a web site is using crawling a web application.
+Being Cyber geek :computer: its always fun to test web applications. Which information gathering is one of the biggest part of the testing. Some times it is very important to know all links in a website, which will be very useful in testing any web application.
+So the only way to retrive all links in a web site is using crawling :beetle: a web application.
 
 [![Crawler video](https://res.cloudinary.com/marcomontalbano/image/upload/v1591805671/video_to_markdown/images/youtube--2-YbRrHZRWY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2-YbRrHZRWY "Crawler video")
 
@@ -30,9 +29,9 @@ Run script using python command in your command prompt/terminal
 ```bash 
 python Crawler.py
 ```
-## Disclaimer
-Crawling of web pages is restricted in some sites without written proof from the owner of site. 
-I/Myteam does not took the responsiblity of wrong usage of this tool. Use at user own risk
+## Disclaimer :bangbang:
+Crawling of web pages is restricted :no_entry: in some sites without written proof :memo: from the owner of site. 
+I/Myteam does not took the responsiblity of wrong usage of this tool. Use at user own risk :100:
 
 ## contribution
 Every one who love open source projects and web developement can contribute to my project :heart: .Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated. 
